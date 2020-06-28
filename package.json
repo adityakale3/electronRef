@@ -1,0 +1,25 @@
+{
+  "name": "electronRef",
+  "version": "1.0.0",
+  "description": "Electron JS Reference",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^9.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityakale3/electronRef.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityakale3/electronRef/issues"
+  },
+  "homepage": "https://github.com/adityakale3/electronRef#readme"
+}
